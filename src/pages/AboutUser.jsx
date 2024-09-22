@@ -38,7 +38,7 @@ const AboutUser = () => {
             Cancel
           </button>
           <button className="bg-blue-600 text-white font-semibold py-3 px-6 rounded-md hover:bg-blue-700 transition duration-300">
-            Save Changes
+            Save
           </button>
         </div>
 
